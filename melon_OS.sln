@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "melon_OS", "melon_OS\melon_OS.csproj", "{EC43D020-D2E5-463A-B0F8-B95832255D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC43D020-D2E5-463A-B0F8-B95832255D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC43D020-D2E5-463A-B0F8-B95832255D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC43D020-D2E5-463A-B0F8-B95832255D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC43D020-D2E5-463A-B0F8-B95832255D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28726854-C22A-4B27-8CAF-5442FC6AB334}
+	EndGlobalSection
+EndGlobal
